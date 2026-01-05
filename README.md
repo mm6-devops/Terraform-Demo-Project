@@ -86,6 +86,6 @@ terraform destroy
 
 👤 Author
 - Masoom Maurya
-Aspiring DevOps Engineer | AWS | Terraform | Docker | CI/CD
+Aspiring DevOps Engineer | Linux | AWS | Terraform | Docker | Kubernates | CI/CD
 
 ---
